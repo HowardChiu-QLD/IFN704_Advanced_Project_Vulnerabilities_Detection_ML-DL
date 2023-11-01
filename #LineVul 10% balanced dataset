@@ -1,0 +1,11 @@
+#LineVul 10% balanced dataset
+09/26/2023 13:27:57 - INFO - __main__ -     Num examples = 217
+09/26/2023 13:27:57 - INFO - __main__ -     Batch size = 16
+09/26/2023 13:30:50 - INFO - __main__ -   ***** Eval results *****
+09/26/2023 13:30:50 - INFO - __main__ -     eval_f1 = 0.8
+09/26/2023 13:30:50 - INFO - __main__ -     eval_precision = 0.9459
+09/26/2023 13:30:50 - INFO - __main__ -     eval_recall = 0.6931
+09/26/2023 13:30:50 - INFO - __main__ -     eval_threshold = 0.5
+09/26/2023 13:30:50 - INFO - __main__ -     ********************
+09/26/2023 13:30:50 - INFO - __main__ -     Best f1:0.8
+09/26/2023 13:30:50 - INFO - __main__ -     ********************
